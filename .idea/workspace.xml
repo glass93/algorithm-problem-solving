@@ -21,15 +21,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/브루트 포스로 계산.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -56,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/투 포인터 이용.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
@@ -66,17 +57,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="23" selection-start-column="23" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/투 포인터를 최대로 이동.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret lean-forward="true" selection-end-line="5" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/스택 쌓기.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/06_문자열 조작/03_로그파일 재정렬/람다와 +연산자를 이용.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/06_문자열 조작/06_가장 긴 팰린드롬 부분 문자열/중앙을 중심으로 확장하는 풀이.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/06_문자열 조작/05_그룹 애너그램/정렬하여 딕셔너리에 추가.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -93,12 +101,19 @@
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/in을 이용한 탐색.py" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/첫 번째 수를 뺀 결과 키 조회.py" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/투 포인터 이용.py" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/BOJ_리모컨/input.txt" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/BOJ_리모컨/s1.py" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/input.txt" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/투 포인터를 최대로 이동.py" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/스택 쌓기.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1945" />
-    <option name="height" value="1105" />
+    <option name="x" value="713" />
+    <option name="y" value="192" />
+    <option name="width" value="1943" />
+    <option name="height" value="1103" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -161,6 +176,13 @@
               <item name="07_배열" type="462c0819:PsiDirectoryNode" />
               <item name="07_두 수의 합" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm-problem-solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-problem-solving" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 알고리즘 인터뷰" type="462c0819:PsiDirectoryNode" />
+              <item name="07_배열" type="462c0819:PsiDirectoryNode" />
+              <item name="08_빗물 트래핑" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -182,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.투 포인터 이용">
+  <component name="RunManager" selected="Python.스택 쌓기">
     <configuration name="첫 번째 수를 뺀 결과 키 조회" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -204,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="브루트 포스로 계산" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="투 포인터를 최대로 이동" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,11 +234,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/브루트 포스로 계산.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/투 포인터를 최대로 이동.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="in을 이용한 탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="스택 쌓기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,11 +276,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/in을 이용한 탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/스택 쌓기.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm-problem-solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/BOJ_리모컨" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/BOJ_리모컨/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -268,17 +311,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.브루트 포스로 계산" />
-      <item itemvalue="Python.in을 이용한 탐색" />
       <item itemvalue="Python.첫 번째 수를 뺀 결과 키 조회" />
       <item itemvalue="Python.투 포인터 이용" />
+      <item itemvalue="Python.s1" />
+      <item itemvalue="Python.투 포인터를 최대로 이동" />
+      <item itemvalue="Python.스택 쌓기" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.스택 쌓기" />
+        <item itemvalue="Python.투 포인터를 최대로 이동" />
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.투 포인터 이용" />
         <item itemvalue="Python.첫 번째 수를 뺀 결과 키 조회" />
-        <item itemvalue="Python.in을 이용한 탐색" />
-        <item itemvalue="Python.브루트 포스로 계산" />
       </list>
     </recent_temporary>
   </component>
@@ -297,7 +342,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
@@ -308,8 +352,8 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32954547" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -320,6 +364,22 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/투 포인터를 최대로 이동.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/스택 쌓기.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/input.txt">
@@ -375,10 +435,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/BOJ_리모컨/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/BOJ_리모컨/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/투 포인터 이용.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="12" column="17" lean-forward="true" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/투 포인터를 최대로 이동.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-line="5" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/스택 쌓기.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
