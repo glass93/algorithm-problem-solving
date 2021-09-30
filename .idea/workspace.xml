@@ -11,42 +11,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/첫 번째 수를 뺀 결과 키 조회.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/07_두 수의 합/투 포인터 이용.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="23" selection-start-column="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/투 포인터를 최대로 이동.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="5" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/스택 쌓기.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
@@ -55,11 +19,47 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/input.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/오름차순 풀이.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/짝수 번째 값 계산.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/파이썬다운 방식.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -76,7 +76,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/투 포인터로 합 계산.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
+            <state relative-caret-position="504">
               <caret line="28" column="64" lean-forward="true" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
             </state>
           </provider>
@@ -113,6 +113,10 @@
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/input.txt" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/브루트 포스로 계산.py" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/투 포인터로 합 계산.py" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/input.txt" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/오름차순 풀이.py" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/짝수 번째 값 계산.py" />
+        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/파이썬다운 방식.py" />
       </list>
     </option>
   </component>
@@ -196,6 +200,13 @@
               <item name="07_배열" type="462c0819:PsiDirectoryNode" />
               <item name="09_세 수의 합" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm-problem-solving" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-problem-solving" type="462c0819:PsiDirectoryNode" />
+              <item name="파이썬 알고리즘 인터뷰" type="462c0819:PsiDirectoryNode" />
+              <item name="07_배열" type="462c0819:PsiDirectoryNode" />
+              <item name="10_배열 파티션 1" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -218,8 +229,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.투 포인터로 합 계산">
-    <configuration name="투 포인터를 최대로 이동" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.파이썬다운 방식">
+    <configuration name="짝수 번째 값 계산" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -227,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/투 포인터를 최대로 이동.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/짝수 번째 값 계산.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="스택 쌓기" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="파이썬다운 방식" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,11 +301,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/08_빗물 트래핑/스택 쌓기.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/파이썬다운 방식.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,7 +314,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="오름차순 풀이" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,11 +322,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/BOJ_리모컨" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/BOJ_리모컨/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/오름차순 풀이.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -325,19 +336,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.s1" />
-      <item itemvalue="Python.투 포인터를 최대로 이동" />
-      <item itemvalue="Python.스택 쌓기" />
       <item itemvalue="Python.브루트 포스로 계산" />
       <item itemvalue="Python.투 포인터로 합 계산" />
+      <item itemvalue="Python.오름차순 풀이" />
+      <item itemvalue="Python.짝수 번째 값 계산" />
+      <item itemvalue="Python.파이썬다운 방식" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.파이썬다운 방식" />
+        <item itemvalue="Python.짝수 번째 값 계산" />
+        <item itemvalue="Python.오름차순 풀이" />
         <item itemvalue="Python.투 포인터로 합 계산" />
         <item itemvalue="Python.브루트 포스로 계산" />
-        <item itemvalue="Python.스택 쌓기" />
-        <item itemvalue="Python.투 포인터를 최대로 이동" />
-        <item itemvalue="Python.s1" />
       </list>
     </recent_temporary>
   </component>
@@ -358,12 +369,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,13 +491,6 @@
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/06_문자열 조작/06_가장 긴 팰린드롬 부분 문자열/중앙을 중심으로 확장하는 풀이.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/투 포인터로 합 계산.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="28" column="64" lean-forward="true" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/브루트 포스로 계산.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
@@ -498,6 +502,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/투 포인터로 합 계산.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="64" lean-forward="true" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/오름차순 풀이.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/짝수 번째 값 계산.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/파이썬다운 방식.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
         </state>
       </provider>
     </entry>
