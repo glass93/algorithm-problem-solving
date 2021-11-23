@@ -2,14 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c6a1f4f-a2d2-4279-8244-0960313a0f16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04_구현/01_상하좌우/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_구현/01_상하좌우/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_구현/02_시각/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_구현/02_시각/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_구현/03_왕실의 나이트/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_구현/03_왕실의 나이트/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_구현/04_게임 개발/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/04_구현/04_게임 개발/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/01_스택/스택 예제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/02_큐/큐 예제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/2가지 방식으로 구현한 팩토리얼 예제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/재귀 함수 예제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/재귀 함수 종료 예제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/04_DFS/DFS 예제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 리스트 방식 예제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 행렬 방식 예제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/05_BFS/BFS예제.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/06_음료수 얼려 먹기/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/06_음료수 얼려 먹기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/s1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,26 +35,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="13" />
-          <entry key="txt" value="8" />
+          <entry key="py" value="24" />
+          <entry key="txt" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="13" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5538" />
-          <entry key="txt" value="126" />
+          <entry key="dummy" value="3" />
+          <entry key="py" value="10001" />
+          <entry key="txt" value="191" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="126" />
-          <entry key="Python" value="5538" />
+          <entry key="PLAIN_TEXT" value="194" />
+          <entry key="Python" value="10001" />
         </counts>
       </usages-collector>
     </session>
@@ -57,94 +63,106 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_그리디/04_1이 될 때까지/s3.py">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/02_큐/큐 예제.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="215">
+              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/03_그리디/03_큰 수의 법칙/input.txt">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 행렬 방식 예제.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+            <state relative-caret-position="225">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_구현/01_상하좌우/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_구현/01_상하좌우/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_구현/03_왕실의 나이트/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="2" selection-start-column="2" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_구현/03_왕실의 나이트/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_구현/04_게임 개발/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/04_구현/04_게임 개발/s1.py">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 리스트 방식 예제.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="275">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/DFS 예제.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
               <folding>
-                <marker date="1637605968270" expanded="true" signature="448:453" ph="..." />
+                <marker date="1637663591566" expanded="true" signature="40:45" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_구현/02_시각/input.txt">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/05_BFS/BFS예제.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="825">
+              <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+              <folding>
+                <marker date="1637664519813" expanded="true" signature="75:80" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/04_구현/02_시각/s1.py">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/06_음료수 얼려 먹기/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="100">
+              <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/06_음료수 얼려 먹기/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+              <folding>
+                <marker date="1637666654927" expanded="true" signature="244:249" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="975">
+              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+              <folding>
+                <marker date="1637667869463" expanded="true" signature="274:279" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/재귀 함수 종료 예제.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding>
+                <marker date="1637660808100" expanded="true" signature="26:31" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -176,6 +194,19 @@
         <option value="$PROJECT_DIR$/04_구현/03_왕실의 나이트/s1.py" />
         <option value="$PROJECT_DIR$/04_구현/04_게임 개발/input.txt" />
         <option value="$PROJECT_DIR$/04_구현/04_게임 개발/s1.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/01_스택/스택 예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/02_큐/큐 예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/재귀 함수 예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/재귀 함수 종료 예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/2가지 방식으로 구현한 팩토리얼 예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 행렬 방식 예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 리스트 방식 예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/04_DFS/DFS 예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/05_BFS/BFS예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/05_음료수 얼려 먹기/input.txt" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/05_음료수 얼려 먹기/s1.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/input.txt" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/s1.py" />
       </list>
     </option>
   </component>
@@ -208,31 +239,43 @@
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="04_구현" type="462c0819:PsiDirectoryNode" />
+              <item name="05_DFS BFS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="04_구현" type="462c0819:PsiDirectoryNode" />
-              <item name="01_상하좌우" type="462c0819:PsiDirectoryNode" />
+              <item name="05_DFS BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="01_스택" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="04_구현" type="462c0819:PsiDirectoryNode" />
-              <item name="02_시각" type="462c0819:PsiDirectoryNode" />
+              <item name="05_DFS BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="02_큐" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="04_구현" type="462c0819:PsiDirectoryNode" />
-              <item name="03_왕실의 나이트" type="462c0819:PsiDirectoryNode" />
+              <item name="05_DFS BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="03_재귀 함수" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="04_구현" type="462c0819:PsiDirectoryNode" />
-              <item name="04_게임 개발" type="462c0819:PsiDirectoryNode" />
+              <item name="05_DFS BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="04_DFS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
+              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
+              <item name="05_DFS BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="06_음료수 얼려 먹기" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
+              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
+              <item name="05_DFS BFS" type="462c0819:PsiDirectoryNode" />
+              <item name="07_미로 탈출" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -256,7 +299,70 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (3)">
+  <component name="RunManager" selected="Python.s1 (1)">
+    <configuration name="인접 리스트 방식 예제" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="이것이 코딩테스트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_DFS BFS/04_DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 리스트 방식 예제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="BFS예제" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="이것이 코딩테스트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_DFS BFS/05_BFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_DFS BFS/05_BFS/BFS예제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DFS 예제" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="이것이 코딩테스트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_DFS BFS/04_DFS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_DFS BFS/04_DFS/DFS 예제.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="이것이 코딩테스트" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -265,53 +371,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_구현/02_시각" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_DFS BFS/07_미로 탈출" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_구현/02_시각/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="이것이 코딩테스트" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_구현/03_왕실의 나이트" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_구현/03_왕실의 나이트/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="이것이 코딩테스트" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_구현/04_게임 개발" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_구현/04_게임 개발/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -328,32 +392,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/04_구현/01_상하좌우" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05_DFS BFS/05_음료수 얼려 먹기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/04_구현/01_상하좌우/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="이것이 코딩테스트" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/03_그리디/04_1이 될 때까지" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/03_그리디/04_1이 될 때까지/s3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05_DFS BFS/05_음료수 얼려 먹기/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -363,19 +406,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.s3" />
+      <item itemvalue="Python.인접 리스트 방식 예제" />
+      <item itemvalue="Python.DFS 예제" />
+      <item itemvalue="Python.BFS예제" />
       <item itemvalue="Python.s1" />
       <item itemvalue="Python.s1 (1)" />
-      <item itemvalue="Python.s1 (2)" />
-      <item itemvalue="Python.s1 (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (3)" />
-        <item itemvalue="Python.s1 (2)" />
         <item itemvalue="Python.s1 (1)" />
         <item itemvalue="Python.s1" />
-        <item itemvalue="Python.s3" />
+        <item itemvalue="Python.BFS예제" />
+        <item itemvalue="Python.DFS 예제" />
+        <item itemvalue="Python.인접 리스트 방식 예제" />
       </list>
     </recent_temporary>
   </component>
@@ -396,12 +439,12 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15664244" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15664244" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23295455" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1534091" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39914772" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -562,6 +605,120 @@
           <folding>
             <marker date="1637605968270" expanded="true" signature="448:453" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/01_스택/스택 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/2가지 방식으로 구현한 팩토리얼 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1637661633440" expanded="true" signature="42:47" ph="..." />
+            <marker date="1637661633440" expanded="true" signature="150:152" ph="..." />
+            <marker date="1637661633440" expanded="true" signature="194:199" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/재귀 함수 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+          <folding>
+            <marker date="1637660684405" expanded="true" signature="25:30" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/재귀 함수 종료 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding>
+            <marker date="1637660808100" expanded="true" signature="26:31" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/02_큐/큐 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 행렬 방식 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 리스트 방식 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/DFS 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding>
+            <marker date="1637663591566" expanded="true" signature="40:45" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/05_BFS/BFS예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+          <folding>
+            <marker date="1637664519813" expanded="true" signature="75:80" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/06_음료수 얼려 먹기/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/06_음료수 얼려 먹기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <marker date="1637666654927" expanded="true" signature="244:249" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+          <folding>
+            <marker date="1637667869463" expanded="true" signature="274:279" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
