@@ -2,19 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c6a1f4f-a2d2-4279-8244-0960313a0f16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/01_기본적인 서로소 집합 알고리즘 소스코드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/02_경로 압축 기법 소스코드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/03_개선된 서로소 집합 알고리즘 소스코드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/04_서로소 집합을 활용한 사이클 판별 소스코드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/05_크루스칼 알고리즘 소스코드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/06_위상 정렬 소스코드.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/02_팀 결성/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/02_팀 결성/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/03_도시 분할 계획/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/03_도시 분할 계획/s1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/04_커리큘럼/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_그래프 이론/04_커리큘럼/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/01_모험가 길드/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/01_모험가 길드/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/01_모험가 길드/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/02_곱하기 혹은 더하기/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/02_곱하기 혹은 더하기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/02_곱하기 혹은 더하기/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/s2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/s2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_그리디/01_거스름돈/s1.py" beforeDir="false" afterPath="$PROJECT_DIR$/03_그리디/01_거스름돈/s1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,27 +43,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="93" />
-          <entry key="txt" value="35" />
+          <entry key="py" value="142" />
+          <entry key="txt" value="56" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="35" />
-          <entry key="Python" value="93" />
+          <entry key="PLAIN_TEXT" value="56" />
+          <entry key="Python" value="142" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="23" />
-          <entry key="py" value="37783" />
-          <entry key="txt" value="614" />
+          <entry key="py" value="48622" />
+          <entry key="txt" value="760" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="637" />
-          <entry key="Python" value="37783" />
+          <entry key="PLAIN_TEXT" value="783" />
+          <entry key="Python" value="48622" />
         </counts>
       </usages-collector>
     </session>
@@ -64,119 +71,73 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/01_기본적인 서로소 집합 알고리즘 소스코드.py">
+        <entry file="file://$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1090">
-              <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-              <folding>
-                <marker date="1638391700863" expanded="true" signature="78:83" ph="..." />
-                <marker date="1638391700863" expanded="true" signature="78:121" ph="..." />
-                <marker date="1638391700863" expanded="true" signature="254:259" ph="..." />
-              </folding>
+            <state relative-caret-position="325">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/03_개선된 서로소 집합 알고리즘 소스코드.py">
+        <entry file="file://$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-              <folding>
-                <marker date="1638392713302" expanded="true" signature="77:82" ph="..." />
-                <marker date="1638392713302" expanded="true" signature="266:271" ph="..." />
-              </folding>
+            <state>
+              <caret selection-end-line="8" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/04_서로소 집합을 활용한 사이클 판별 소스코드.py">
+        <entry file="file://$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
-              <folding>
-                <marker date="1638472910870" expanded="true" signature="71:76" ph="..." />
-                <marker date="1638472910870" expanded="true" signature="260:265" ph="..." />
-              </folding>
+            <state relative-caret-position="475">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/05_크루스칼 알고리즘 소스코드.py">
+        <entry file="file://$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/s1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-              <folding>
-                <marker date="1638474035727" expanded="true" signature="133:138" ph="..." />
-                <marker date="1638474035727" expanded="true" signature="322:327" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/06_위상 정렬 소스코드.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/02_팀 결성/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/02_팀 결성/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-              <folding>
-                <marker date="1638476248228" expanded="true" signature="88:93" ph="..." />
-                <marker date="1638476248228" expanded="true" signature="277:282" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/03_도시 분할 계획/s1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-              <folding>
-                <marker date="1638478009742" expanded="true" signature="88:93" ph="..." />
-                <marker date="1638478009742" expanded="true" signature="277:282" ph="..." />
-              </folding>
+            <state relative-caret-position="50">
+              <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/04_커리큘럼/s1.py">
+        <entry file="file://$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/s2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="400">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_그래프 이론/04_커리큘럼/input.txt">
+        <entry file="file://$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/input.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="100">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -194,38 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/06_정렬/06_위에서 아래로/input.txt" />
-        <option value="$PROJECT_DIR$/06_정렬/06_위에서 아래로/s1.py" />
-        <option value="$PROJECT_DIR$/06_정렬/05_파이썬 정렬 라이브러리/정렬 라이브러리에서 key를 활용한 소스코드.py" />
-        <option value="$PROJECT_DIR$/06_정렬/07_성적이 낮은 순서로 학생 출력하기/input.txt" />
-        <option value="$PROJECT_DIR$/06_정렬/07_성적이 낮은 순서로 학생 출력하기/s1.py" />
-        <option value="$PROJECT_DIR$/06_정렬/08_두 배열의 원소 교체/input.txt" />
-        <option value="$PROJECT_DIR$/06_정렬/08_두 배열의 원소 교체/s1.py" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/01_순차 탐색/순차 탐색 소스코드.py" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/02_이진 탐색/재귀 함수로 구현한 이진 탐색 소스코드.py" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/03_이진 탐색 트리/한 줄 입력받아 출력하는 소스코드.py" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/04_부품 찾기/input.txt" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/02_이진 탐색/반복문으로 구현한 이진 탐색 소스코드.py" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/04_부품 찾기/s1.py" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/04_부품 찾기/s2.py" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/04_부품 찾기/s3.py" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/05_떡볶이 떡 만들기/input.txt" />
-        <option value="$PROJECT_DIR$/07_이진 탐색/05_떡볶이 떡 만들기/s1.py" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/01_피보나치/피보나치 함수 소스코드.py" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/01_피보나치/피보나치 수열 소스코드(재귀적).py" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/01_피보나치/호출되는 함수 확인.py" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/01_피보나치/04_피보나치 수열 소스코드(반복적).py" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/02_1로 만들기/input.txt" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/02_1로 만들기/s1.py" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/03_개미 전사/input.txt" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/03_개미 전사/s1.py" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/04_바닥 공사/input.txt" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/04_바닥 공사/s1.py" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/05_효율적인 화폐 구성/input.txt" />
-        <option value="$PROJECT_DIR$/08_다이나믹 프로그래밍/05_효율적인 화폐 구성/s1.py" />
-        <option value="$PROJECT_DIR$/09_최단 경로/02_미래 도시/input.txt" />
-        <option value="$PROJECT_DIR$/09_최단 경로/03_전보/input.txt" />
-        <option value="$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/input.txt" />
         <option value="$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/01_간단한 다익스트라 알고리즘 소스코드.py" />
         <option value="$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/02_개선된 다익스트라 알고리즘 소스코드.py" />
         <option value="$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/input2.txt" />
@@ -245,12 +174,44 @@
         <option value="$PROJECT_DIR$/10_그래프 이론/02_팀 결성/input.txt" />
         <option value="$PROJECT_DIR$/10_그래프 이론/03_도시 분할 계획/s1.py" />
         <option value="$PROJECT_DIR$/10_그래프 이론/04_커리큘럼/s1.py" />
+        <option value="$PROJECT_DIR$/03_그리디/01_거스름돈/s1.py" />
+        <option value="$PROJECT_DIR$/03_그리디/03_큰 수의 법칙/test.py" />
+        <option value="$PROJECT_DIR$/03_그리디/02_숫자 카드 게임/test.py" />
+        <option value="$PROJECT_DIR$/03_그리디/04_1이 될 때까지/test.py" />
+        <option value="$PROJECT_DIR$/04_구현/01_상하좌우/test.py" />
+        <option value="$PROJECT_DIR$/04_구현/02_시각/input.txt" />
+        <option value="$PROJECT_DIR$/04_구현/02_시각/test.py" />
+        <option value="$PROJECT_DIR$/04_구현/03_왕실의 나이트/test.py" />
+        <option value="$PROJECT_DIR$/04_구현/04_게임 개발/test.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/2가지 방식으로 구현한 팩토리얼 예제.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/04_DFS/test.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/05_BFS/test.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/06_음료수 얼려 먹기/test.py" />
+        <option value="$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/test.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/01_모험가 길드/input.txt" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/02_곱하기 혹은 더하기/input.txt" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/input.txt" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/s1.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/input.txt" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/s1.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/01_모험가 길드/s1.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/01_모험가 길드/s2.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/02_곱하기 혹은 더하기/s1.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/02_곱하기 혹은 더하기/s2.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/s1.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/input.txt" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/s2.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/s2.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/input.txt" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/s1.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/s2.py" />
+        <option value="$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/s2.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="2" />
-    <option name="y" value="47" />
+    <option name="x" value="-98" />
+    <option name="y" value="22" />
     <option name="width" value="2420" />
     <option name="height" value="1103" />
   </component>
@@ -272,59 +233,47 @@
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="08_다이나믹 프로그래밍" type="462c0819:PsiDirectoryNode" />
+              <item name="11_그리디 문제" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="09_최단 경로" type="462c0819:PsiDirectoryNode" />
+              <item name="11_그리디 문제" type="462c0819:PsiDirectoryNode" />
+              <item name="01_모험가 길드" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="09_최단 경로" type="462c0819:PsiDirectoryNode" />
-              <item name="01_가장 빠른 길 찾기" type="462c0819:PsiDirectoryNode" />
+              <item name="11_그리디 문제" type="462c0819:PsiDirectoryNode" />
+              <item name="02_곱하기 혹은 더하기" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="09_최단 경로" type="462c0819:PsiDirectoryNode" />
-              <item name="02_미래 도시" type="462c0819:PsiDirectoryNode" />
+              <item name="11_그리디 문제" type="462c0819:PsiDirectoryNode" />
+              <item name="03_문자열 뒤집기" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="09_최단 경로" type="462c0819:PsiDirectoryNode" />
-              <item name="03_전보" type="462c0819:PsiDirectoryNode" />
+              <item name="11_그리디 문제" type="462c0819:PsiDirectoryNode" />
+              <item name="04_만들 수 없는 금액" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="10_그래프 이론" type="462c0819:PsiDirectoryNode" />
+              <item name="11_그리디 문제" type="462c0819:PsiDirectoryNode" />
+              <item name="05_볼링공 고르기" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
               <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="10_그래프 이론" type="462c0819:PsiDirectoryNode" />
-              <item name="01_다양한 그래프 알고리즘" type="462c0819:PsiDirectoryNode" />
+              <item name="11_그리디 문제" type="462c0819:PsiDirectoryNode" />
+              <item name="06_무지의 먹방 라이브" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
-              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="10_그래프 이론" type="462c0819:PsiDirectoryNode" />
-              <item name="02_팀 결성" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
-              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="10_그래프 이론" type="462c0819:PsiDirectoryNode" />
-              <item name="03_도시 분할 계획" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="이것이 코딩테스트" type="b2602c69:ProjectViewProjectNode" />
-              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
-              <item name="10_그래프 이론" type="462c0819:PsiDirectoryNode" />
-              <item name="04_커리큘럼" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
@@ -348,91 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.s1 (2)">
-    <configuration name="05_크루스칼 알고리즘 소스코드" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="이것이 코딩테스트" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/05_크루스칼 알고리즘 소스코드.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="06_위상 정렬 소스코드" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="이것이 코딩테스트" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/06_위상 정렬 소스코드.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="이것이 코딩테스트" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_그래프 이론/03_도시 분할 계획" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_그래프 이론/03_도시 분할 계획/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="s1 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="이것이 코딩테스트" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_그래프 이론/04_커리큘럼" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_그래프 이론/04_커리큘럼/s1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.s2">
     <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="이것이 코딩테스트" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -441,11 +306,95 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_그래프 이론/02_팀 결성" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_그래프 이론/02_팀 결성/s1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/s1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s2 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="이것이 코딩테스트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s2 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="이것이 코딩테스트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s2 (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="이것이 코딩테스트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="이것이 코딩테스트" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -455,19 +404,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.05_크루스칼 알고리즘 소스코드" />
-      <item itemvalue="Python.06_위상 정렬 소스코드" />
+      <item itemvalue="Python.s2 (2)" />
       <item itemvalue="Python.s1" />
-      <item itemvalue="Python.s1 (1)" />
-      <item itemvalue="Python.s1 (2)" />
+      <item itemvalue="Python.s2 (3)" />
+      <item itemvalue="Python.s2 (4)" />
+      <item itemvalue="Python.s2" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.s1 (2)" />
-        <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s2" />
+        <item itemvalue="Python.s2 (4)" />
+        <item itemvalue="Python.s2 (3)" />
+        <item itemvalue="Python.s2 (2)" />
         <item itemvalue="Python.s1" />
-        <item itemvalue="Python.06_위상 정렬 소스코드" />
-        <item itemvalue="Python.05_크루스칼 알고리즘 소스코드" />
       </list>
     </recent_temporary>
   </component>
@@ -485,7 +434,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13417052" />
@@ -493,8 +442,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34232953" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.23452769" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24857955" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38352272" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -514,10 +463,6 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/03_그리디/01_거스름돈/s1.py</url>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/06_정렬/03_퀵 정렬/퀵 정렬 소스코드.py</url>
           <line>3</line>
           <option name="timeStamp" value="2" />
@@ -536,401 +481,330 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/06_정렬/06_위에서 아래로/input.txt">
+    <entry file="file://$PROJECT_DIR$/03_그리디/01_거스름돈/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="2" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        <state relative-caret-position="250">
+          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_정렬/06_위에서 아래로/s1.py">
+    <entry file="file://$PROJECT_DIR$/03_그리디/03_큰 수의 법칙/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
+        <state relative-caret-position="364">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_정렬/07_성적이 낮은 순서로 학생 출력하기/input.txt">
+    <entry file="file://$PROJECT_DIR$/03_그리디/02_숫자 카드 게임/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state relative-caret-position="89">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="13" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_정렬/05_파이썬 정렬 라이브러리/정렬 라이브러리에서 key를 활용한 소스코드.py">
+    <entry file="file://$PROJECT_DIR$/03_그리디/02_숫자 카드 게임/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_그리디/04_1이 될 때까지/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="350">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_정렬/07_성적이 낮은 순서로 학생 출력하기/s1.py">
+    <entry file="file://$PROJECT_DIR$/03_그리디/04_1이 될 때까지/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="-161" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_그리디/04_1이 될 때까지/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/06_정렬/08_두 배열의 원소 교체/input.txt">
+    <entry file="file://$PROJECT_DIR$/03_그리디/04_1이 될 때까지/s3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        <state relative-caret-position="-75" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_구현/01_상하좌우/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_구현/01_상하좌우/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/01_순차 탐색/순차 탐색 소스코드.py">
+    <entry file="file://$PROJECT_DIR$/04_구현/01_상하좌우/s1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_구현/02_시각/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_구현/02_시각/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_구현/03_왕실의 나이트/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="3" column="52" selection-start-line="3" selection-start-column="52" selection-end-line="3" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_구현/03_왕실의 나이트/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_구현/04_게임 개발/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_구현/04_게임 개발/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_구현/04_게임 개발/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/02_큐/큐 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="33" lean-forward="true" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/재귀 함수 예제.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/재귀 함수 종료 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 행렬 방식 예제.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/인접 리스트 방식 예제.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
+          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/02_이진 탐색/재귀 함수로 구현한 이진 탐색 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="15" selection-start-line="15" selection-end-line="25" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/06_정렬/08_두 배열의 원소 교체/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="31" lean-forward="true" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/03_이진 탐색 트리/한 줄 입력받아 출력하는 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/02_이진 탐색/반복문으로 구현한 이진 탐색 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="5" lean-forward="true" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/04_부품 찾기/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="5" lean-forward="true" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/04_부품 찾기/s1.py">
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/03_재귀 함수/2가지 방식으로 구현한 팩토리얼 예제.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/04_부품 찾기/s2.py">
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/DFS 예제.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        <state relative-caret-position="425">
+          <caret line="23" selection-start-line="23" selection-end-line="24" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/04_부품 찾기/s3.py">
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/04_DFS/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        <state relative-caret-position="200">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/05_떡볶이 떡 만들기/input.txt">
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/05_BFS/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        <state relative-caret-position="301">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/07_이진 탐색/05_떡볶이 떡 만들기/s1.py">
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/05_BFS/BFS예제.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="27" column="23" lean-forward="true" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        <state relative-caret-position="175">
+          <caret line="19" selection-start-line="19" selection-end-line="33" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/01_피보나치/02_피보나치 함수 소스코드.py">
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/06_음료수 얼려 먹기/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        <state relative-caret-position="604">
+          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/01_피보나치/01_피보나치 수열 소스코드(재귀적).py">
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/06_음료수 얼려 먹기/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="100">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/01_피보나치/03_호출되는 함수 확인.py">
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/input.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        <state relative-caret-position="161">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_DFS BFS/07_미로 탈출/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
           <folding>
-            <marker date="1637931646860" expanded="true" signature="27:32" ph="..." />
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/01_피보나치/04_피보나치 수열 소스코드(반복적).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/02_1로 만들기/input.txt">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="2" selection-start-column="2" selection-end-column="2" />
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/02_1로 만들기/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/03_개미 전사/input.txt">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/01_모험가 길드/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/03_개미 전사/s1.py">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/01_모험가 길드/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/04_바닥 공사/input.txt">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/01_모험가 길드/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/02_곱하기 혹은 더하기/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/02_곱하기 혹은 더하기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/02_곱하기 혹은 더하기/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="10" selection-start-column="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/03_문자열 뒤집기/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/input.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/04_바닥 공사/s1.py">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/04_만들 수 없는 금액/s2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        <state relative-caret-position="325">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/05_효율적인 화폐 구성/input.txt">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/input.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        <state relative-caret-position="100">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/08_다이나믹 프로그래밍/05_효율적인 화폐 구성/s1.py">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/s1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        <state>
+          <caret selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/input.txt">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/05_볼링공 고르기/s2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        <state relative-caret-position="475">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/input2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/03_플로이드 워셜 알고리즘 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/02_개선된 다익스트라 알고리즘 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-21">
-          <caret line="29" column="25" lean-forward="true" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-            <marker date="1638309198222" expanded="true" signature="589:594" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="38" column="11" selection-start-line="38" selection-start-column="11" selection-end-line="38" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/01_가장 빠른 길 찾기/01_간단한 다익스트라 알고리즘 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/02_미래 도시/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/02_미래 도시/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="40" column="18" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/03_전보/input.txt">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/s1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="50">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/09_최단 경로/03_전보/s1.py">
+    <entry file="file://$PROJECT_DIR$/11_그리디 문제/06_무지의 먹방 라이브/s2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/03_도시 분할 계획/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/02_경로 압축 기법 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <marker date="1638391973111" expanded="true" signature="27:32" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/01_기본적인 서로소 집합 알고리즘 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1090">
-          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
-          <folding>
-            <marker date="1638391700863" expanded="true" signature="78:83" ph="..." />
-            <marker date="1638391700863" expanded="true" signature="78:121" ph="..." />
-            <marker date="1638391700863" expanded="true" signature="254:259" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/03_개선된 서로소 집합 알고리즘 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="45" column="28" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
-          <folding>
-            <marker date="1638392713302" expanded="true" signature="77:82" ph="..." />
-            <marker date="1638392713302" expanded="true" signature="266:271" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/04_서로소 집합을 활용한 사이클 판별 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="45" column="27" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
-          <folding>
-            <marker date="1638472910870" expanded="true" signature="71:76" ph="..." />
-            <marker date="1638472910870" expanded="true" signature="260:265" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/05_크루스칼 알고리즘 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-          <folding>
-            <marker date="1638474035727" expanded="true" signature="133:138" ph="..." />
-            <marker date="1638474035727" expanded="true" signature="322:327" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/01_다양한 그래프 알고리즘/06_위상 정렬 소스코드.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="52" column="15" selection-start-line="52" selection-start-column="15" selection-end-line="52" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/02_팀 결성/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/02_팀 결성/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="35" column="24" lean-forward="true" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-          <folding>
-            <marker date="1638476248228" expanded="true" signature="88:93" ph="..." />
-            <marker date="1638476248228" expanded="true" signature="277:282" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/03_도시 분할 계획/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <marker date="1638478009742" expanded="true" signature="88:93" ph="..." />
-            <marker date="1638478009742" expanded="true" signature="277:282" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/04_커리큘럼/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/10_그래프 이론/04_커리큘럼/s1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="400">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
