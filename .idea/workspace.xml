@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdcc556b-9b98-427d-bffc-a5139ffd34f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bdcc556b-9b98-427d-bffc-a5139ffd34f9" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,63 +10,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/35_조합/DFS로 k개 조합 생성.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/35_조합/itertools 모듈 사용.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
-              <folding>
-                <element signature="e#38#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/36_조합의 합/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/36_조합의 합/DFS로 중복 조합 그래프 탐색.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="12" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/37_부분 집합/input.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="5" selection-start-column="5" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/37_부분 집합/트리의 모든 DFS 결과.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/38_일정 재구성/DFS로 일정 그래프 구성.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -96,11 +37,65 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/39_코스 스케줄/DFS로 순환 구조 판별.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="38" selection-start-column="38" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/s2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/input.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/s1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/s2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -113,12 +108,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/투 포인터로 합 계산.py" />
-        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/input.txt" />
-        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/오름차순 풀이.py" />
-        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/짝수 번째 값 계산.py" />
-        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/파이썬다운 방식.py" />
-        <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/11_자신을 제외한 배열의 곱/input.txt" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/11_자신을 제외한 배열의 곱/왼쪽 곱셈 결과에 오른쪽 값을 차례대로 곱셈.py" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/12_주식을 사고팔기 가장 좋은 시점/input.txt" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/12_주식을 사고팔기 가장 좋은 시점/브루트 포스로 계산.py" />
@@ -164,11 +153,17 @@
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/38_일정 재구성/스택 연산으로 큐 연산 최적화 시도.py" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/38_일정 재구성/일정 그래프 반복.py" />
         <option value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/39_코스 스케줄/DFS로 순환 구조 판별.py" />
+        <option value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/input.txt" />
+        <option value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/s1.py" />
+        <option value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/s2.py" />
+        <option value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/s2.py" />
+        <option value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/input.txt" />
+        <option value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/s1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="711" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="710" />
     <option name="y" value="190" />
     <option name="width" value="1945" />
     <option name="height" value="1105" />
@@ -181,7 +176,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,38 +186,39 @@
             <path>
               <item name="algorithm-problem-solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm-problem-solving" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 알고리즘 인터뷰" type="462c0819:PsiDirectoryNode" />
+              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm-problem-solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm-problem-solving" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 알고리즘 인터뷰" type="462c0819:PsiDirectoryNode" />
-              <item name="10_데크, 우선순위 큐" type="462c0819:PsiDirectoryNode" />
+              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
+              <item name="11_그리디 문제" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm-problem-solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm-problem-solving" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 알고리즘 인터뷰" type="462c0819:PsiDirectoryNode" />
-              <item name="12_그래프" type="462c0819:PsiDirectoryNode" />
+              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
+              <item name="12_구현 문제" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm-problem-solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm-problem-solving" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 알고리즘 인터뷰" type="462c0819:PsiDirectoryNode" />
-              <item name="12_그래프" type="462c0819:PsiDirectoryNode" />
-              <item name="37_부분 집합" type="462c0819:PsiDirectoryNode" />
+              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
+              <item name="12_구현 문제" type="462c0819:PsiDirectoryNode" />
+              <item name="07_럭키 스트레이트" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm-problem-solving" type="b2602c69:ProjectViewProjectNode" />
               <item name="algorithm-problem-solving" type="462c0819:PsiDirectoryNode" />
-              <item name="파이썬 알고리즘 인터뷰" type="462c0819:PsiDirectoryNode" />
-              <item name="12_그래프" type="462c0819:PsiDirectoryNode" />
-              <item name="38_일정 재구성" type="462c0819:PsiDirectoryNode" />
+              <item name="이것이 코딩테스트" type="462c0819:PsiDirectoryNode" />
+              <item name="12_구현 문제" type="462c0819:PsiDirectoryNode" />
+              <item name="08_문자열 재정렬" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -247,28 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.일정 그래프 반복">
-    <configuration name="스택 연산으로 큐 연산 최적화 시도" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="algorithm-problem-solving" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/38_일정 재구성" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/38_일정 재구성/스택 연산으로 큐 연산 최적화 시도.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.s1 (1)">
     <configuration name="일정 그래프 반복" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,7 +264,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="트리의 모든 DFS 결과" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -298,11 +272,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/37_부분 집합" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/37_부분 집합/트리의 모든 DFS 결과.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -311,7 +285,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DFS로 중복 조합 그래프 탐색" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -319,11 +293,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/36_조합의 합" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/36_조합의 합/DFS로 중복 조합 그래프 탐색.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/s1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -332,7 +306,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="DFS로 일정 그래프 구성" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="s2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="algorithm-problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,11 +314,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/38_일정 재구성" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/38_일정 재구성/DFS로 일정 그래프 구성.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/s2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="s2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="algorithm-problem-solving" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/s2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,19 +349,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.DFS로 중복 조합 그래프 탐색" />
-      <item itemvalue="Python.트리의 모든 DFS 결과" />
-      <item itemvalue="Python.DFS로 일정 그래프 구성" />
-      <item itemvalue="Python.스택 연산으로 큐 연산 최적화 시도" />
       <item itemvalue="Python.일정 그래프 반복" />
+      <item itemvalue="Python.s1" />
+      <item itemvalue="Python.s2" />
+      <item itemvalue="Python.s1 (1)" />
+      <item itemvalue="Python.s2 (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.s1 (1)" />
+        <item itemvalue="Python.s2 (1)" />
+        <item itemvalue="Python.s2" />
+        <item itemvalue="Python.s1" />
         <item itemvalue="Python.일정 그래프 반복" />
-        <item itemvalue="Python.스택 연산으로 큐 연산 최적화 시도" />
-        <item itemvalue="Python.DFS로 일정 그래프 구성" />
-        <item itemvalue="Python.트리의 모든 DFS 결과" />
-        <item itemvalue="Python.DFS로 중복 조합 그래프 탐색" />
       </list>
     </recent_temporary>
   </component>
@@ -387,7 +382,7 @@
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24520819" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -451,48 +446,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/오름차순 풀이.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/짝수 번째 값 계산.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/10_배열 파티션 1/파이썬다운 방식.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="29" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/11_자신을 제외한 배열의 곱/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/11_자신을 제외한 배열의 곱/왼쪽 곱셈 결과에 오른쪽 값을 차례대로 곱셈.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/09_세 수의 합/투 포인터로 합 계산.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="64" selection-start-line="28" selection-start-column="64" selection-end-line="28" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/07_배열/12_주식을 사고팔기 가장 좋은 시점/저점과 현재 값과의 차이 계산.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -514,13 +467,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/08_연결 리스트/13_팰린드롬 연결 리스트/input.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/08_연결 리스트/13_팰린드롬 연결 리스트/input.txt" />
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/08_연결 리스트/13_팰린드롬 연결 리스트/리스트 변환.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -736,9 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="54" selection-start-line="8" selection-start-column="54" selection-end-line="8" selection-end-column="54" />
-          <folding>
-            <element signature="e#38#48#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -751,7 +695,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/파이썬 알고리즘 인터뷰/12_그래프/35_조합/itertools 모듈 사용.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="126">
           <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
           <folding>
             <element signature="e#38#48#0" expanded="true" />
@@ -812,6 +756,48 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="38" selection-start-column="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/07_럭키 스트레이트/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/s2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="19" column="17" lean-forward="true" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/이것이 코딩테스트/12_구현 문제/08_문자열 재정렬/s1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
