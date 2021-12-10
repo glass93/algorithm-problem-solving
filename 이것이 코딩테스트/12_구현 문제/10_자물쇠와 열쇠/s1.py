@@ -37,7 +37,7 @@ def solution(key, lock):
     new_lock = [[0] * (n * 3) for _ in range(n * 3)]
     # 새로운 자물쇠의 중앙 부분에 기존의 자물쇠 넣기
     for i in range(n):
-        for j in range(m):
+        for j in range(n):
             new_lock[i + n][j + n] = lock[i][j]
 
     # 4가지 방향에 대해서 확인
@@ -49,7 +49,7 @@ def solution(key, lock):
                 for i in range(m):
                     for j in range(m):
                         new_lock[x + i][y + j] += key[i][j]
-                # 새로운 자물쇠에 열쇠가 정확히 들어있는지 검사
+                # 새로운 자물쇠에 열쇠가 정확히 들어 맞는지 검사
                 if check(new_lock) == True:
                     return True
                 # 자물쇠에서 열쇠를 다시 빼기
